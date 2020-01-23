@@ -1,2 +1,2 @@
 # publicRepo
-Mon repo publique
+Mon repo publique pour ≠ Dpo.
